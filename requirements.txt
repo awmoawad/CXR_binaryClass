@@ -30,7 +30,7 @@ jupyter==1.0.0
 jupyter-client==6.1.7
 jupyter-console==6.2.0
 jupyter-core==4.6.3
-jupyter-server==0.1.1
+jupyter-server==1.4
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.3.2
@@ -77,7 +77,7 @@ thinc==7.4.1
 threadpoolctl==2.1.0
 torch==1.6.0
 torchvision==0.7.0
-tornado==6.0.4
+tornado==6.1.0
 tqdm==4.49.0
 traitlets==5.0.4
 urllib3==1.25.10
